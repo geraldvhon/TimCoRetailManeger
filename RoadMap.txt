@@ -1,0 +1,20 @@
+
+
+Appilication Idias
+* Actually interact with the inventory
+* Move API to Azure
+* CI/CD Process 
+* Deploy the Destop App to the Blob Storage for Download
+* Introduce a web base invetory system control system Blazed 
+* Web Base Reporting 
+* xamarin from app for mobile regiser
+
+
+Phase 2 
+1. Take advantage of .net Core 
+2. Set up a simple task board in azure dev ops 
+3. CI/CD with Azure Dev Ops (Move source code to Azure)
+4. Move API to Azure
+5. Move the Database to Azure SQL 
+6. Deploy the Desktop app to Azure Blob Storage
+7. Web Base inventory control system
